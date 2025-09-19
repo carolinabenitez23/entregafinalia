@@ -70,3 +70,8 @@ Imágenes de los platos sugeridos para aumentar la motivación.
 
 NUTRIPLAN 7D ofrece una herramienta innovadora para transformar la planificación de la alimentación en una experiencia práctica, atractiva y sostenible.
 El proyecto demuestra cómo la IA puede convertirse en una aliada para la salud y el bienestar, reduciendo barreras que dificultan mantener hábitos saludables.
+
+--- Link de Colab ---
+En este link podras encontrar el colab real (sin modificaciones en widgets para que lo acepte github). En esa seccion podes hacer la pregunta que desees, planteas tu duda spbre nutricion y la IA te devuelve la respuesta mas certera que pueda.
+
+https://colab.research.google.com/drive/12_nAuZBD5VEOt3qDhHSChzK5aSufTxj9?usp=sharing
